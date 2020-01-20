@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db69032-d846-47c7-b83f-c4207e1eade1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Dominion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dominion.py" afterDir="false" />
-    </list>
+    <list default="true" id="2db69032-d846-47c7-b83f-c4207e1eade1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,30 +42,6 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="playDominion" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="dominion" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/playDominion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -79,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578893462270</updated>
       <workItem from="1578893463502" duration="2411000" />
-      <workItem from="1579389923335" duration="375000" />
+      <workItem from="1579389923335" duration="377000" />
     </task>
     <servers />
   </component>
