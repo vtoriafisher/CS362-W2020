@@ -16,7 +16,8 @@ nV = testUtility.getNV(player_names)
 nC = testUtility.getNC(player_names)
 
 # Set up boxes
-box = testUtility.getBoxes(nV)
+#bug location
+box = testUtility.getBoxes(nC)
 
 # Set up supply order
 supply_order = testUtility.getSupplyOrder()

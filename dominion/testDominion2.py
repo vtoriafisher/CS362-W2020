@@ -54,9 +54,10 @@ while not Dominion.gameover(supply):
 dcs=Dominion.cardsummaries(players)
 vp=dcs.loc['VICTORY POINTS']
 vpmax=vp.max()
-winners=[]
+#bug location
+winners=["Annie"]
 for i in vp.index:
-    if vp.loc[i]==vpmax:
+    if vp.loc[i]!=vpmax:
         winners.append(i)
 if len(winners)>1:
     winstring= ' and '.join(winners) + ' win!'

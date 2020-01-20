@@ -15,6 +15,7 @@ def getNV(player_names):
 
 def getNC(player_names):
     nC = -10 + 10 * len(player_names)
+    return nC
 
 def getBoxes(nV):
     box = {}
